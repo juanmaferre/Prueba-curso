@@ -1,0 +1,6 @@
+
+hola.txt
+
+*.class
+
+bin/
